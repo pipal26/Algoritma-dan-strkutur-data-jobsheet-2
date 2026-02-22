@@ -16,5 +16,8 @@ public class MahasiswaMain14 {
         mhs2.updateIPK(3.30);
         mhs2.tampilkanInformasi();  
 
+        Mahasiswa14 mhs3 = new Mahasiswa14("Chelsea Rasya Arfina", "2341720111", "TI 1A", 3.85);
+        mhs3.tampilkanInformasi();
+
     }
 }
